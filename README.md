@@ -22,38 +22,6 @@ The portfolio is split into three repositories for clarity:
 
 ## 📊 High-Level Architecture
 
-![Portfolio Architecture](./portfolio-architecture.png)
-
-           ┌─────────────────────┐
-           │     GitHub Repos    │
-           │ (Backend/Frontend)  │
-           └──────────┬──────────┘
-                      │
-                      ▼
-           ┌─────────────────────┐
-           │   GitHub Actions    │
-           │  CI/CD Pipelines    │
-           └──────────┬──────────┘
-                      │
-                      ▼
-           ┌─────────────────────┐
-           │     DockerHub       │
-           │ (Container Images)  │
-           └──────────┬──────────┘
-                      │
-      ┌───────────────┴────────────────┐
-      ▼                                ▼
-┌─────────────────────┐ ┌─────────────────────┐
-│ AWS EC2 (Backend)   │ │ AWS S3 + CloudFront │
-│ Dockerized API      │ │ React Frontend      │
-└─────────────────────┘ └─────────────────────┘
-│
-▼
-┌─────────────────────┐
-│ Monitoring Stack    │
-│ Prometheus + Grafana│
-└─────────────────────┘
-
 ```mermaid
 flowchart TD
 
@@ -127,8 +95,8 @@ EC2 --> MON[Prometheus + Grafana Monitoring]
 I am a **Cloud/DevOps Engineer** passionate about building scalable, automated, and secure systems.  
 This portfolio demonstrates my ability to design, deploy, and manage cloud-based applications using **modern DevOps practices**.
 
-📧 Contact: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)  
-💻 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+📧 Contact: gustavo.t138@gmail.com 
+🔗 LinkedIn: [linkedin.com/in/gustavo-tejedac](https://www.linkedin.com/in/gustavo-tejedac/)  
+💻 GitHub: [github.com/GhostGto](https://github.com/GhostGto?tab=repositories)  
 
 ---
