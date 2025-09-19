@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/cloudops":{"guestpath":"/home/vagrant/cloudops","hostpath":"/Users/gustavotejeda/Documents/devops-journey/cloudops-portfolio","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/gustavotejeda/Documents/devops-journey/cloudops-portfolio","disabled":false,"__vagrantfile":true}}}
