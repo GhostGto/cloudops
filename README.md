@@ -9,13 +9,13 @@ The portfolio is split into three repositories for clarity:
 
 ## 📂 Repositories
 
-- [cloudops-backend](https://github.com/YOUR_USERNAME/cloudops-backend)  
+- [cloudops-backend](https://github.com/GhostGto/cloudops-backend)  
   Node.js + Express API (Dockerized, CI/CD with GitHub Actions)
 
-- [cloudops-frontend](https://github.com/YOUR_USERNAME/cloudops-frontend)  
+- [cloudops-frontend](https://github.com/GhostGto/cloudops-frontend)  
   React app served with Nginx (Dockerized, CI/CD with GitHub Actions)
 
-- [cloudops-infra](https://github.com/YOUR_USERNAME/cloudops-infra)  
+- [cloudops-infra](https://github.com/GhostGto/cloudops-infra)  
   AWS Infrastructure with Terraform + Monitoring stack (Prometheus + Grafana)
 
 ---
@@ -80,9 +80,9 @@ EC2 --> MON[Prometheus + Grafana Monitoring]
 ## 📌 How to Use This Portfolio
 
 1. Explore each repository for detailed setup instructions:
-   - [cloudops-backend](https://github.com/YOUR_USERNAME/cloudops-backend)
-   - [cloudops-frontend](https://github.com/YOUR_USERNAME/cloudops-frontend)
-   - [cloudops-infra](https://github.com/YOUR_USERNAME/cloudops-infra)
+   - [cloudops-backend](https://github.com/GhostGto/cloudops-backend)
+   - [cloudops-frontend](https://github.com/GhostGto/cloudops-frontend)
+   - [cloudops-infra](https://github.com/GhostGto/cloudops-infra)
 
 2. Review the **README files** inside each repo for step-by-step guides.
 
