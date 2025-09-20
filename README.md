@@ -1,7 +1,7 @@
 # ☁️ CloudOps Portfolio
 
 This repository showcases my **Cloud & DevOps Engineering portfolio**.  
-It demonstrates **CI/CD pipelines, containerization, Infrastructure as Code (IaC), cloud deployments, and monitoring** — core skills required for Cloud/DevOps roles.
+It demonstrates **CI/CD pipelines, containerization, Infrastructure as Code (IaC), cloud deployments, and monitoring**.
 
 The portfolio is split into three repositories for clarity:
 
