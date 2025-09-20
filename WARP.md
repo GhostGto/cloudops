@@ -1,7 +1,3 @@
-# WARP.md
-
-This file provides guidance to WARP (warp.dev) when working with code in this repository.
-
 ## Repository Overview
 
 This is a **CloudOps Portfolio** repository that serves as an umbrella project showcasing a multi-repository DevOps portfolio. The actual implementation is split across three separate repositories:
