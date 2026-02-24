@@ -73,7 +73,7 @@ cat "flowchart TD.mmd"
 
 The repository includes a Vagrant configuration that sets up:
 - Ubuntu 22.04 LTS (jammy64) VM
-- 2GB RAM, 1 CPU
+- 4GB RAM, 2 CPU
 - Private network IP: 10.0.4.10
 - Synced folder from host portfolio directory to `/home/vagrant/cloudops`
 
